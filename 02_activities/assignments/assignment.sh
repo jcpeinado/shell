@@ -29,6 +29,7 @@ mkdir data
 
 mkdir ./data/raw
 mv ./rawdata/* ./data/raw
+mv ./rawdata/ ./data/raw
 
 # 3. List the contents of the ./data/raw directory
 
